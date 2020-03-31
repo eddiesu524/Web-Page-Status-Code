@@ -3,7 +3,7 @@
         "WebSiteSettings": [
             {
                 "WebSite": "GOOGLE",
-                "URL": "www.google.com",
+                "URL": "https://www.google.com",
                 "Desc": ""
             }
         ]

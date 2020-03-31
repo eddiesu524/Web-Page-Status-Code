@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\08698\\Google 雲端硬碟\\ProjectDev_Core\\WorkingMonintor\\WorkingMonintor.csproj",
+      "projectUniqueName": "d:\\08698\\Google 雲端硬碟\\ProjectDev_Core\\WorkingMonintor\\Web-Page-Status-Code\\WorkingMonintor.csproj",
       "projectName": "WorkingMonintor",
-      "projectPath": "D:\\08698\\Google 雲端硬碟\\ProjectDev_Core\\WorkingMonintor\\WorkingMonintor.csproj",
+      "projectPath": "d:\\08698\\Google 雲端硬碟\\ProjectDev_Core\\WorkingMonintor\\Web-Page-Status-Code\\WorkingMonintor.csproj",
       "packagesPath": "D:\\08698\\.nuget\\packages\\",
-      "outputPath": "D:\\08698\\Google 雲端硬碟\\ProjectDev_Core\\WorkingMonintor\\obj\\",
+      "outputPath": "d:\\08698\\Google 雲端硬碟\\ProjectDev_Core\\WorkingMonintor\\Web-Page-Status-Code\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

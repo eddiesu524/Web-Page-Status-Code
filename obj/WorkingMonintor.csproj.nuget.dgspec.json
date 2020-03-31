@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\08698\\Google 雲端硬碟\\ProjectDev_Core\\WorkingMonintor\\WorkingMonintor.csproj": {}
+    "D:\\08698\\Google 雲端硬碟\\ProjectDev_Core\\WorkingMonintor\\Web-Page-Status-Code\\WorkingMonintor.csproj": {}
   },
   "projects": {
-    "d:\\08698\\Google 雲端硬碟\\ProjectDev_Core\\WorkingMonintor\\WorkingMonintor.csproj": {
+    "D:\\08698\\Google 雲端硬碟\\ProjectDev_Core\\WorkingMonintor\\Web-Page-Status-Code\\WorkingMonintor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\08698\\Google 雲端硬碟\\ProjectDev_Core\\WorkingMonintor\\WorkingMonintor.csproj",
+        "projectUniqueName": "D:\\08698\\Google 雲端硬碟\\ProjectDev_Core\\WorkingMonintor\\Web-Page-Status-Code\\WorkingMonintor.csproj",
         "projectName": "WorkingMonintor",
-        "projectPath": "d:\\08698\\Google 雲端硬碟\\ProjectDev_Core\\WorkingMonintor\\WorkingMonintor.csproj",
+        "projectPath": "D:\\08698\\Google 雲端硬碟\\ProjectDev_Core\\WorkingMonintor\\Web-Page-Status-Code\\WorkingMonintor.csproj",
         "packagesPath": "D:\\08698\\.nuget\\packages\\",
-        "outputPath": "d:\\08698\\Google 雲端硬碟\\ProjectDev_Core\\WorkingMonintor\\obj\\",
+        "outputPath": "D:\\08698\\Google 雲端硬碟\\ProjectDev_Core\\WorkingMonintor\\Web-Page-Status-Code\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
