@@ -1,0 +1,11 @@
+{
+    "Setting_WebSite": {
+        "WebSiteSettings": [
+            {
+                "WebSite": "GOOGLE",
+                "URL": "https://www.google.com",
+                "Desc": ""
+            }
+        ]
+    }
+}
